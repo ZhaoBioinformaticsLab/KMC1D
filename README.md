@@ -1,4 +1,4 @@
-# Running KMC1D Calculate Main Effect Kinship Matrix
+# Running KMC1D to Calculate Main Effect Kinship Matrix
 
 Welcome to use **KMC1D** to calculate **Main Effect Kinship Matrix**. In this repository, except this README file, you also should see another **INSTALL md** file for instructions to **compile the source code**;  a **PDF** file for user manual to **run KMC1D**; a sub-directory: **Source_Code**, which you can compile into a **binary KMC1D** execute command; One zipped file: **Simulated_Data.zip**, which should be unzipped at first, and by which you can play with a series of simulated genotypic matrix data with dimension of **m** rows(markers)x **n** columns (individuals); and another zipped file **Run_Test.zip**, which should be unzipped at first and by which you can test the availability of GPU **hardware** environment, CUDA-Nvidia software **Toolkits**, **Packages**, and tentatively **Run** your data at **bash shell** model.
 
